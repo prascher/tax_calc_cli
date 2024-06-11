@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#taxcalc cmd 3.0 alpha(for python 3) by Phillip D. Rascher
+#taxcalc cmd 4.0 alpha(for python 3) by Phillip D. Rascher
 #Inspired by CIS 103
 def formater():
     print('-----------')
